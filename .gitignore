@@ -1,3 +1,4 @@
-# 版权资料，不上传
-references/*.pdf
+# 忽略大型扫描版 PDF 及系统临时文件
 *.pdf
+.DS_Store
+__pycache__/
