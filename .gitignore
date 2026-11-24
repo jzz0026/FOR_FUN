@@ -1,4 +1,5 @@
-# 忽略大型扫描版 PDF 及系统临时文件
+# 忽略大型扫描版 PDF、现代方志 OCR 文本及系统临时文件
 *.pdf
+*_OCR.txt
 .DS_Store
 __pycache__/
