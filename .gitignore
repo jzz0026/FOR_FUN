@@ -5,3 +5,7 @@
 *.xlsx
 .DS_Store
 __pycache__/
+
+# 忽略视频大文件与中间切片（超过 GitHub 100MB 单文件限制）
+*.mp4
+**/clips/
