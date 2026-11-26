@@ -4,7 +4,7 @@ import cv2
 from PIL import Image, ImageDraw, ImageFont
 import imageio_ffmpeg
 
-BASE = "/project/small_grains/Jinlie.Zhou/for_fun"
+BASE = "/project/small_grains/Jinlie.Zhou/for_fun/Yong_lu"
 VDIR = os.path.join(BASE, "youtube_video")
 ADIR = os.path.join(VDIR, "assets")
 AUDDIR = os.path.join(VDIR, "audio")
